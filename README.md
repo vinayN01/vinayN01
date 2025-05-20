@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Nelavai Vinay! 👋  
+A passionate **Java developer** who loves building full-stack applications and solving real-world problems.
 
-<!--
-**vinayN01/vinayN01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Tech Stack
+- 💻 Java (Core + JEE), Spring Boot, Hibernate  
+- 🌐 React.js, JavaScript, HTML/CSS  
+- 🛢️ MySQL, JDBC  
+- 🧪 Tools: Git, Postman, Eclipse, VS Code  
 
-Here are some ideas to get you started:
+### 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Personal Assistant System](https://github.com/vinayN01/personal-assistant-app)**  
+  A multi-feature app to manage notes, expenses, books, and read lists – all in one place.
+
+- **[Messaging and Friend Management Platform](https://github.com/vinayN01/messagingapp)**  
+  A simple messaging app where users can search accounts, send/accept friend requests, and chat.
+
+- **[Ticket Management System](https://github.com/vinayN01/ticketmanagementsystem)**  
+  A backend system to manage support tickets, categorize issues, and track resolution statuses.
+
+### 📫 Contact
+- [LinkedIn](https://linkedin.com/in/nelavai-vinay)  
+- [Email](mailto:vinaynelavai01@gmail.com)
+
