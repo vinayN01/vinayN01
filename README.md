@@ -9,10 +9,10 @@ A passionate **Java developer** who loves building full-stack applications and s
 
 ### 🚀 Projects
 
-- **[Personal Assistant System](https://github.com/vinayN01/Personal-Assistant-App)**  
+- **[Personal Assistant System](https://github.com/vinayN01/Personal_Assistant_App)**  
   A multi-feature app to manage notes, expenses, books, and read lists – all in one place.
 
-- **[Messaging and Friend Management Platform](https://github.com/vinayN01/MessagingApp)**  
+- **[Messaging and Friend Management Platform](https://github.com/vinayN01/MessageApp)**  
   A simple messaging app where users can search accounts, send/accept friend requests, and chat.
 
 - **[Ticket Management System](https://github.com/vinayN01/TicketManagementSystem)**  
